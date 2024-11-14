@@ -29,7 +29,6 @@ print(element.text)
 #     print("Element with text 'QQ音乐' found and clicked.")
 # except:
 #     print('<<QQ音乐>> 没找到')
-
 # try:
 #     wode = driver.find_element(AppiumBy.XPATH, '//*[contains(@text, "我的")]')
 #     wode.click()
